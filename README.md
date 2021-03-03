@@ -7,17 +7,13 @@ Complete the tower so that every square contains a number. The number in each sq
 ![number pyramid](https://user-images.githubusercontent.com/78680402/109549222-99a7f780-7ac5-11eb-9c2f-a121ff94943f.png)
 
 ## Current Progress
-
-### Done...
-* Wrote algorithm to solve puzzle
-* Generalized algorithm to work on puzzles of different sizes
-
-### Crap to do...
-* Work on malformed puzzle recognition
-  * Not enough info: track if no changes were made during a loop, if no changes were made the puzzle is malformed
-  * Contradiction: after the puzzle has been completed run through all triplets and ensure they fit conditions
-* Create a GUI for the puzzle input & solution
-* Make a puzzle-generator
+- [x] Wrote algorithm to solve puzzle
+- [x] Generalized algorithm to work on puzzles of different sizes
+- [ ] Work on malformed puzzle recognition
+  - [ ] Not enough info: track if no changes were made during a loop, if no changes were made the puzzle is malformed
+  - [ ] Contradiction: after the puzzle has been completed run through all triplets and ensure they fit conditions
+- [ ] Create a GUI for the puzzle input & solution
+- [ ] Make a puzzle-generator
 
 ## Synopsis
 
