@@ -28,4 +28,10 @@ Complete the tower so that every square contains a number. The number in each sq
 *This has not been revisited by future me yet.*
 
 ## See also...
-*Watch out for other puzzle projects...*
+[sudoku](https://github.com/404) | [jigsaw sudoku](https://github.com/404) | [killer sudoku](https://github.com/404)
+:---: | :---: | :---:
+**[futoshiki](https://github.com/404)** | **[wordsearch](https://github.com/404)** | **[symbols of value](https://github.com/404)**
+**[word ladder](https://github.com/404)** | **[kings journey](https://github.com/404)** | **[kakuro](https://github.com/404)**
+**[word wheel](https://github.com/404)** | **[bridges](https://github.com/404)** | **[minesweeper](https://github.com/404)**
+**[rectangles](https://github.com/404)** | **[battleships](https://github.com/404)** | **[binary puzzle](https://github.com/404)**
+**[number square](https://github.com/404)** | **[number diamond](https://github.com/404)** | **[link word](https://github.com/404)**
